@@ -11,7 +11,7 @@ package embeded
 //     JNIEnv* env;
 //     JavaVMInitArgs args;
 //     JavaVMOption options;
-//     args.version = JNI_VERSION_1_6;
+//     args.version = JNI_VERSION_1_8;
 //     args.nOptions = 1;
 //     options.optionString = "-Djava.class.path=./";
 //     args.options = &options;
